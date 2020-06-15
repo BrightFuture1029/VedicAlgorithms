@@ -24,10 +24,10 @@ Budh,Chandra,Shani ->
 Guru,Mangal,Ravi ->
 Shukra,Budh,Chandra
 																										 
-Shani (Saturn) -> Shanivar (Saturday)
-Guru (Jupiter) -> Guruwar (Thursday)
-Mangal (Mars) -> Mangalwar (Tuesday)
-Ravi (Sun) -> Raviwar (Sunday)
-Shukra (Venus) -> Shukrawar (Friday)
-Budh (Mercury) -> Budhwar (Wednesday)
-Chandra also called Soam  (Moon) -> Soamwar (Monday)																										 
+- Shani (Saturn) -> Shanivar (Saturday)
+- Guru (Jupiter) -> Guruwar (Thursday)
+- Mangal (Mars) -> Mangalwar (Tuesday)
+- Ravi (Sun) -> Raviwar (Sunday)
+- Shukra (Venus) -> Shukrawar (Friday)
+- Budh (Mercury) -> Budhwar (Wednesday)
+- Chandra also called Soam  (Moon) -> Soamwar (Monday)																										 
