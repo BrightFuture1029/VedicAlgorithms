@@ -16,13 +16,13 @@ Algo:
  Third from Shani is Ravi, hence Raviwar (Sunday)
  If we continue with this we get following pattern:
 
-Shani,Guru,Mangal
-	Ravi,Shukra, Budh
-		 Chandra,Shani,Guru
-			Mangal,Ravi,Shukra
-				  Budh,Chandra,Shani
-					Guru,Mangal,Ravi,
-						 Shukra,Budh,Chandra
+Shani,Guru,Mangal ->
+Ravi,Shukra, Budh ->
+Chandra,Shani,Guru ->
+Mangal,Ravi,Shukra ->
+Budh,Chandra,Shani ->
+Guru,Mangal,Ravi ->
+Shukra,Budh,Chandra
 																										 
 Shani (Saturn) -> Shanivar (Saturday)
 Guru (Jupiter) -> Guruwar (Thursday)
